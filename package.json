@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest day1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioedo/adventofcode2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioedo/adventofcode2022/issues"
+  },
+  "homepage": "https://github.com/sergioedo/adventofcode2022#readme",
+  "devDependencies": {
+    "vitest": "0.34.6"
+  }
+}
